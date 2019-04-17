@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tmall_ssm_ljf:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tmall_ssm_ljf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tmall_ssm_ljf.war">
+      <element id="artifact" artifact-name="tmall_ssm_ljf:war exploded" />
+    </root>
+  </artifact>
+</component>
